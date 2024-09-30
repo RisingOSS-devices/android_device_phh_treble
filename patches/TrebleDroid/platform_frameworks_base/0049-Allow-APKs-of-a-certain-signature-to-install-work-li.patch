@@ -1,4 +1,4 @@
-From 193648f6ae3f8d5aff79e8186e855a8863e1401f Mon Sep 17 00:00:00 2001
+From 14aa2ea7960d71f9fe4b4afba1754b8b2418db88 Mon Sep 17 00:00:00 2001
 From: Andy CrossGate Yan <GeForce8800Ultra@gmail.com>
 Date: Sun, 7 Jul 2024 21:55:42 +0800
 Subject: [PATCH 49/49] Allow APKs of a certain signature to install/work like
@@ -89,5 +89,5 @@ index 2e67b2f41..20a614235 100644
  
          if (!isSystemApp) {
 -- 
-2.39.2
+2.39.5
 

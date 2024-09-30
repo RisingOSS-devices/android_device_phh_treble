@@ -1,4 +1,4 @@
-From a34f2b4f5289936ff6d566e764af3b1fa7821cc9 Mon Sep 17 00:00:00 2001
+From c6143b5f680e71327e98c366e91e14c9ea272b90 Mon Sep 17 00:00:00 2001
 From: Pierre-Hugues Husson <phh@phh.me>
 Date: Wed, 8 May 2024 11:55:07 -0400
 Subject: [PATCH 48/49] Add a prop to disable animation in for sysui media
@@ -30,5 +30,5 @@ index b721236ea..8da1ddc20 100644
                              duration = duration,
                              delay = startDelay
 -- 
-2.39.2
+2.39.5
 

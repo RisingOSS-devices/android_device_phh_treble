@@ -1,4 +1,4 @@
-From 9ddba48438650615a69898caa2535447f7f967e8 Mon Sep 17 00:00:00 2001
+From 853063a4478c1f1a1bdd36bf4731db8913301263 Mon Sep 17 00:00:00 2001
 From: Pierre-Hugues Husson <phh@phh.me>
 Date: Fri, 2 Jun 2023 19:19:31 -0400
 Subject: [PATCH 28/49] Try catch around constrainNitsAndBacklightArrays, and
@@ -82,5 +82,5 @@ index 04e06b99d..663f78f78 100644
  
      private Spline loadSdrHdrRatioMap(HighBrightnessMode hbmConfig) {
 -- 
-2.39.2
+2.39.5
 

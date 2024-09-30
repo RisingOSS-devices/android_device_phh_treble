@@ -1,4 +1,4 @@
-From 42b682a082288e5fd76f47abe14c319c1da32561 Mon Sep 17 00:00:00 2001
+From 073ace968d508404f6406ab64a14e4cbe5ed7ab9 Mon Sep 17 00:00:00 2001
 From: Pierre-Hugues Husson <phh@phh.me>
 Date: Sat, 3 Dec 2022 17:13:24 -0500
 Subject: [PATCH 26/49] Set old fingerprint sensors to security "strong"
@@ -33,5 +33,5 @@ index f8ad9acc2..0acbf633e 100644
          for (int i = 0; i < modalities.size(); ++i) {
              final String id = String.valueOf(i);
 -- 
-2.39.2
+2.39.5
 

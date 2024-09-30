@@ -1,4 +1,4 @@
-From 33531a71e1d03765c9165cade3d2e14a6c8f704a Mon Sep 17 00:00:00 2001
+From 88f6fabfab8073a8f3bebe1b817bd8e38289429c Mon Sep 17 00:00:00 2001
 From: Pierre-Hugues Husson <phh@phh.me>
 Date: Tue, 28 Nov 2017 18:28:04 +0100
 Subject: [PATCH 04/49] Relax requirement for visible flag to sdcards
@@ -27,5 +27,5 @@ index 68607882b..b2cafd03b 100644
              } else if (vol.disk.isSd()) {
                  vol.mountFlags |= VolumeInfo.MOUNT_FLAG_VISIBLE_FOR_WRITE;
 -- 
-2.39.2
+2.39.5
 

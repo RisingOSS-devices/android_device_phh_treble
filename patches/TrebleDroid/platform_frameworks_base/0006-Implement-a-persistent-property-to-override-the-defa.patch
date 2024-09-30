@@ -1,4 +1,4 @@
-From a57680ac1de2f3674feed2f252c3a0d60b797585 Mon Sep 17 00:00:00 2001
+From 01152ca73427001b184c01791e67f75bac074dfa Mon Sep 17 00:00:00 2001
 From: Peter Cai <peter@typeblog.net>
 Date: Wed, 1 Jun 2022 16:56:20 -0400
 Subject: [PATCH 06/49] Implement a persistent property to override the default
@@ -46,5 +46,5 @@ index 31b1d0733..7636837ff 100644
  
          public static boolean cameraStatusesContains(CameraStatus[] cameraStatuses, String id) {
 -- 
-2.39.2
+2.39.5
 

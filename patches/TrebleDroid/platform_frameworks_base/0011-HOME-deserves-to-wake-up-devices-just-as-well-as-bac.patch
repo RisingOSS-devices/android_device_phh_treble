@@ -1,4 +1,4 @@
-From eafd54d123c179e70ec4a5569be882e815a36c06 Mon Sep 17 00:00:00 2001
+From eed45f426e8a56ce214d02e7b2d16f4ba881a907 Mon Sep 17 00:00:00 2001
 From: Pierre-Hugues Husson <phh@phh.me>
 Date: Sat, 6 Jun 2020 18:21:56 +0200
 Subject: [PATCH 11/49] HOME deserves to wake-up devices just as well as back
@@ -22,5 +22,5 @@ index 650992404..2d32ef9bd 100644
              case KeyEvent.KEYCODE_STEM_1:
              case KeyEvent.KEYCODE_STEM_2:
 -- 
-2.39.2
+2.39.5
 

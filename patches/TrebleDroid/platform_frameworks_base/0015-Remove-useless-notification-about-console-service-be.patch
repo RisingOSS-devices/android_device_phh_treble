@@ -1,4 +1,4 @@
-From e49fb9a2103acdf0286d2e043291cb207e17fd08 Mon Sep 17 00:00:00 2001
+From 8b639ef403cad132e38ebc427fb7eb5d646de817 Mon Sep 17 00:00:00 2001
 From: Pierre-Hugues Husson <phh@phh.me>
 Date: Fri, 11 Dec 2020 14:41:09 +0100
 Subject: [PATCH 15/49] Remove useless notification about "console" service
@@ -22,5 +22,5 @@ index 4991efb39..a01e70646 100644
          }
          String title = mContext
 -- 
-2.39.2
+2.39.5
 

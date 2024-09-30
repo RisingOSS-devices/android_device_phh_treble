@@ -1,4 +1,4 @@
-From 278553d120614c768c7f928f5fed82590d10976d Mon Sep 17 00:00:00 2001
+From e028d02bba0be01217abdf0890892f4edd9e8b5f Mon Sep 17 00:00:00 2001
 From: Pierre-Hugues Husson <phh@phh.me>
 Date: Wed, 21 Feb 2024 12:41:46 -0500
 Subject: [PATCH 44/49] Include vendor.samsung.hardware.radio.network-V1-java
@@ -21,5 +21,5 @@ index af1074b7a..ca9c8a600 100644
          "android.hardware.radio.voice-V3-java",
          "android.hardware.thermal-V1.0-java-constants",
 -- 
-2.39.2
+2.39.5
 

@@ -78,13 +78,13 @@ apply "naz664"
 
 
 # Build treble app after applying patch
-wget https://download.oracle.com/java/17/archive/jdk-17.0.10_linux-x64_bin.tar.gz
-tar -xvf jdk-17.0.10_linux-x64_bin.tar.gz
-rm -rf jdk-17.0.10_linux-x64_bin.tar.gz
-export JAVA_HOME=$(pwd)/jdk-17.0.10
+wget https://download.oracle.com/java/17/archive/jdk-17.0.12_linux-x64_bin.tar.gz
+tar -xvf jdk-17.0.12_linux-x64_bin.tar.gz
+rm -rf jdk-17.0.12_linux-x64_bin.tar.gz
+export JAVA_HOME=$(pwd)/jdk-17.0.12
 cd treble_app
 bash build.sh release
 cp -v TrebleApp.apk ../vendor/hardware_overlay/TrebleApp/app.apk
 cd ..
-rm -rf jdk-17.0.10
+rm -rf jdk-17.0.12
 unset JAVA_HOME

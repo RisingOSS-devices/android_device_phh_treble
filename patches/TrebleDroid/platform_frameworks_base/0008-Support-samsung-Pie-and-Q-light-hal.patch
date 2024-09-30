@@ -1,4 +1,4 @@
-From 3d2d2da62142dfa715df4786d0424e6b1c777ce9 Mon Sep 17 00:00:00 2001
+From b5ff47bf1e5d1a42f9fed1855ca52672efc7f150 Mon Sep 17 00:00:00 2001
 From: Pierre-Hugues Husson <phh@phh.me>
 Date: Sun, 24 Mar 2019 23:05:14 +0100
 Subject: [PATCH 08/49] Support samsung Pie and Q light hal
@@ -22,5 +22,5 @@ index 3607dddc6..3641e3b21 100644
  
      static_libs: [
 -- 
-2.39.2
+2.39.5
 

@@ -1,4 +1,4 @@
-From 02b454416e7cc6c41ff634866f1daf0627f31bb5 Mon Sep 17 00:00:00 2001
+From 95aae29471b5120c96be389213e192d92209d665 Mon Sep 17 00:00:00 2001
 From: Pierre-Hugues Husson <phh@phh.me>
 Date: Sat, 17 Jun 2023 08:31:55 -0400
 Subject: [PATCH 29/49] Add Mediatek power hints on touch
@@ -123,5 +123,5 @@ index 5d82c3323..de06174be 100644
  
                  @Override
 -- 
-2.39.2
+2.39.5
 

@@ -1,4 +1,4 @@
-From ea9ef221fb9c3f21b45c65051288f3e4ef17bb76 Mon Sep 17 00:00:00 2001
+From a73633cd09ea155f0b5a283cf4841f9c0ebd62ab Mon Sep 17 00:00:00 2001
 From: Pierre-Hugues Husson <phh@phh.me>
 Date: Wed, 18 Oct 2023 16:53:40 -0400
 Subject: [PATCH 36/49] Ignore cgroup creation errors
@@ -46,5 +46,5 @@ index 89c89944e..641b2cc82 100644
                              app.mProcessGroupCreated = true;
                          }
 -- 
-2.39.2
+2.39.5
 

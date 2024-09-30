@@ -1,4 +1,4 @@
-From 0140322b45ecc2bc48779326044393d4638e4cca Mon Sep 17 00:00:00 2001
+From c57104e693aa140190864954b118c127727bf51d Mon Sep 17 00:00:00 2001
 From: Pierre-Hugues Husson <phh@phh.me>
 Date: Tue, 5 Oct 2021 17:59:16 -0400
 Subject: [PATCH 02/49] Fallback to stupid autobrightness if brightness values
@@ -35,5 +35,5 @@ index 9b2dcc53f..04e06b99d 100644
              config = getConfigFromPmValues(context, flags);
          }
 -- 
-2.39.2
+2.39.5
 

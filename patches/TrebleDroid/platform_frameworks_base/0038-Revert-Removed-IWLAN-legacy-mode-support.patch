@@ -1,4 +1,4 @@
-From 8d28a83dff7e559958dd2c5505fc88b7173c651c Mon Sep 17 00:00:00 2001
+From 7c4308bacb8d0ea1101e2f25dc647e83a281ca85 Mon Sep 17 00:00:00 2001
 From: Alberto Ponces <ponces26@gmail.com>
 Date: Fri, 20 Oct 2023 09:26:19 +0000
 Subject: [PATCH 38/49] Revert "Removed IWLAN legacy mode support"
@@ -78,5 +78,5 @@ index db167c059..ef64fc9fc 100644
              mVoiceRegState = STATE_POWER_OFF;
              mDataRegState = STATE_POWER_OFF;
 -- 
-2.39.2
+2.39.5
 

@@ -1,4 +1,4 @@
-From 0d47b8687b2832a47ac18eeec015eddc37e3f1ad Mon Sep 17 00:00:00 2001
+From 38e7b29a1453c77e6924d04639658af7dd5861d2 Mon Sep 17 00:00:00 2001
 From: Andy CrossGate Yan <GeForce8800Ultra@gmail.com>
 Date: Thu, 5 Apr 2018 10:01:19 +0800
 Subject: [PATCH 01/49] Disable vendor mismatch warning
@@ -34,5 +34,5 @@ index f887f8de2..8fb1e014e 100644
              }
              Trace.traceEnd(TRACE_TAG_WINDOW_MANAGER);
 -- 
-2.39.2
+2.39.5
 

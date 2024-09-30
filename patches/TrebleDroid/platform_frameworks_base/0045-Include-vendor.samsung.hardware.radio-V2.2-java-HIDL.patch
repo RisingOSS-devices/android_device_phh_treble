@@ -1,4 +1,4 @@
-From d9f3f64a9952c683e9d87f0114f48691f0427d8b Mon Sep 17 00:00:00 2001
+From 628e7914794793df921083dfddb7410f6fe26f5b Mon Sep 17 00:00:00 2001
 From: Pierre-Hugues Husson <phh@phh.me>
 Date: Wed, 21 Feb 2024 16:19:47 -0500
 Subject: [PATCH 45/49] Include vendor.samsung.hardware.radio-V2.2-java HIDL in
@@ -21,5 +21,5 @@ index ca9c8a600..b8a44b325 100644
          "android.hardware.radio.ims-V2-java",
          "android.hardware.radio.messaging-V3-java",
 -- 
-2.39.2
+2.39.5
 

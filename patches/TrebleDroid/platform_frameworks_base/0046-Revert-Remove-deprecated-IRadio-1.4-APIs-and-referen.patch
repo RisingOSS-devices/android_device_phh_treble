@@ -1,4 +1,4 @@
-From 9274124772eb47e36c2406f70333cd16d3fc5b23 Mon Sep 17 00:00:00 2001
+From 54a042a126626d4ec2a20e047f12d87ac6e60dfa Mon Sep 17 00:00:00 2001
 From: Alberto Ponces <ponces26@gmail.com>
 Date: Sun, 31 Mar 2024 23:38:19 +0000
 Subject: [PATCH 46/49] Revert "Remove deprecated IRadio <1.4 APIs and
@@ -84,5 +84,5 @@ index b7dd4df1c..5f5e21916 100644
       * No restriction at all including voice/SMS/USSD/SS/AV64
       * and packet data.
 -- 
-2.39.2
+2.39.5
 
